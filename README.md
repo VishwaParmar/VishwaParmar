@@ -1,12 +1,12 @@
 ![MasterHead](https://media.licdn.com/dms/image/D4E16AQFhn5m_2vTwcA/profile-displaybackgroundimage-shrink_350_1400/0/1693859868661?e=1699488000&v=beta&t=2Dhgbl8pCV6XMo1LGN-aK9xxkAz0q53PpINfdpKQ-Uw)
 <h1 align="center">Hi 👋, I'm Vishwa Parmar</h1>
 <h3 align="center">A passionate full-stack developer and have a keen interest in cloud computing. Eager to contribute to the tech world's ongoing evolution.</h3>
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1F_KF5ygrtVuD5Tw_mYT-ZK0qLtC6kX2z/view?usp=sharing">
-- 💬 Ask me about **Java, Android**
+
+- 💬 Ask me about Java, Android
 
 - 📫 How to reach me **parmarvishwa70@gmail.com**
 
-- ⚡ Fun fact **Started drinking coffee because of JAVA.**
+- ⚡ Fun fact: Started drinking coffee because of JAVA.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
