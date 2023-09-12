@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [https://vishwaparmar.com/](https://vishwaparmar.com/)
   
-- 💬 Ask me about Java, Android
+- 💬 Ask me about Java, Spring boot, Android
 
 - 📫 How to reach me **parmarvishwa70@gmail.com**
 
